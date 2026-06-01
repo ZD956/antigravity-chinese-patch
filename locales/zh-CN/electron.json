@@ -1,0 +1,34 @@
+{
+  "dist/loadingOverlay.js": {
+    "Loading Antigravity": "正在加载 Antigravity"
+  },
+  "dist/menu.js": {
+    "New Window": "新建窗口",
+    "Docs": "文档"
+  },
+  "dist/tray.js": {
+    "No agents running": "无运行中的智能体",
+    " agent running": " 个运行中的智能体",
+    " agents running": " 个运行中的智能体",
+    "Open": "打开",
+    "Quit": "退出"
+  },
+  "dist/main.js": {
+    "Confirm Quit": "确认退出",
+    "Are you sure you want to quit?": "确定要退出吗？",
+    "There may be agents or background tasks running.": "可能有智能体或后台任务正在运行。",
+    "Cancel": "取消",
+    "Quit": "退出",
+    "Binary not found": "未找到二进制文件"
+  },
+  "dist/updater.js": {
+    "Check for Updates": "检查更新",
+    "Checking for Updates...": "正在检查更新…",
+    "Downloading Update...": "正在下载更新…",
+    "Restart to Update": "重启以更新",
+    "No updates available": "已是最新版本"
+  },
+  "dist/ipcHandlers.js": {
+    "Open workspace": "打开工作区"
+  }
+}

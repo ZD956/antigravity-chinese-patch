@@ -1,0 +1,2603 @@
+Absolute path to the Chrome/Chromium executable
+Accented Unicode text character "
+Accept Step
+Accept all
+Access to the DCGraph is intended for the debug view,
+Access to the polyominoes is intended for the debug view,
+Action List background color for the focused item.
+Action List background color.
+Action List foreground color for the focused item.
+Action List foreground color.
+Action required
+Action requires your attention
+Activate Inside Self Loops
+Active Browser page
+Active Browser pages
+Active Skills
+Active background color of the command center
+Active border color of the command center
+Active foreground color of the command center
+Actor terminated without satisfying predicate
+Actual behavior
+Actuation Permissions
+Add Comment
+Add Context
+Add Custom Model
+Add Folder
+Add Handler
+Add Hook Card
+Add MCP
+Add MCP Servers
+Add Model
+Add Scheduled Task
+Add Unnecessary Bendpoints
+Add a message...
+Add all
+Add context
+Add not supported on this collection
+Add not supported on this list
+Add recent remote workspace
+Add scheduled task
+Add support for delim type '
+Add them to allow future interactions
+Add to allowlist
+Added to allowlist
+Additional Port Space
+Additional Wedge Space
+Additional Wrapped Edges Spacing
+Advanced Command Access
+Advanced File Access
+Advanced Settings
+Advanced Web Access
+After removing overlaps
+Agent Auto-Fix Lints
+Agent Behavior
+Agent Hooks Configuration
+Agent Host Address
+Agent Loading
+Agent Non-Workspace File Access
+Agent Script
+Agent Script Command Configuration
+Agent Settings
+Agent State Debug
+Agent Stopped
+Agent Team
+Agent always asks for review.
+Agent asks for permission before executing commands matched by a deny list entry.
+Agent auto-executes commands matched by an allow list entry.
+Agent can retrieve console logs from the browser and return it for further processing.
+Agent can scroll on browser pages to access more content.
+Agent cannot modify files outside of the workspace in strict mode.
+Agent data is not available
+Agent encountered an internal error.
+Agent execution failed.
+Agent is analyzing videos
+Agent response
+Agent security mode
+Agent settings and permissions for conversations outside of projects.
+Agent terminated due to error
+Agent will always ask to review in strict mode.
+Agents have full access to your machine and external resources.
+Algorithm for packing of unconnected boxes, i.e. graphs without edges.
+All Files
+All Workspaces
+All args must be strings
+All edge sections need a start point.
+All edge sections need an end point.
+All ports have been leased.
+All tasks run as Flash.
+All terminal commands require review. The agent can read or write to any file in the machine.
+All tools (*)
+Allow List Terminal Commands
+Allow Non-Flow Ports To Switch Sides
+Allow Once
+Allow full browser script execution without prompting.
+Allow in Conversation
+Allow once
+Allow options
+Allow remote debugging for this browser instance
+Allows the agent to access files outside of your current workspace.
+Allows the user to specify her own cuts for a certain graph.
+Alphabetic Presentation Forms
+Alphabetical (A-Z)
+Already exists
+Alt text:
+Always Allow
+Always Ask
+Always Proceed
+Always proceed is only supported on cloudtops.
+Always run
+An anchor must not be here.
+An error ID that helps the team investigate the error.
+An error occurred while checking the port. Please try again.
+An error occurred while submitting your feedback. Please try again.
+An error was thrown.
+An extra border around active elements to separate them from others for greater contrast.
+An extra border around elements to separate them from others for greater contrast.
+An object may not circularly contain itself
+An unexpected bug occurred.
+An unexpected error occurred while attempting to send frame over socket.
+Analyzed Task Log
+Analyzed content
+Analyzing Task Log
+Analyzing content
+Animation Time Factor
+Anno Domini
+Annulus Wedge Criteria
+Anonymous function
+Antigravity Interactive HTML
+Antigravity would like to use the browser.
+Any error messages
+Any error messages seen when trying to log in
+Any relevant information
+App Settings
+Apply layout results
+Arabic Presentation Forms-A
+Arabic Presentation Forms-B
+Archive / Restore
+Archive Conversation
+Archive this conversation
+Are you sure you want to delete the project
+Are you sure you want to delete the scheduled task
+Are you sure you want to delete this conversation? This action cannot be undone.
+Are you sure you want to delete this handler?
+Are you sure you want to delete this hook card?
+Argument number "
+Arguments Schema:
+Artifact Comments
+Artifact Name
+Artifact Review Policy
+Artifact URL not found
+Artifact Viewer
+Artifact image
+Artifact not found
+Ask Agent for Help
+Ask a quick question without interrupting the main conversation.
+Ask every time
+Ask first
+Aspect Ratio
+Assertion Failed
+Async refinement encountered during synchronous parse operation. Use .parseAsync instead.
+Async validation not supported
+Asynchronous transform encountered during synchronous parse operation. Use .parseAsync instead.
+At (least dimension + 1) control points are necessary!
+At mention code block
+Atom One Dark
+Atom One Light
+Attach Antigravity server logs
+Attach a screenshot (optional)
+Attach the trajectory ID to the feedback form
+Attaching logs requires an email address
+Attempted to dispose unknown listener
+Attempted to remove event handlers from a node that does not belong to this build of Lexical
+Audio streaming transcription not available
+Auth and Billing
+Auth status poll failed:
+Authentication Required
+Authentication failed
+Auxiliary Pane
+Available Child Area: (
+Awaiting Authentication...
+Axis color for the chart.
+Back to Scheduled Tasks
+Background Task
+Background Task Output
+Background Tasks
+Background color behind matching brackets
+Background color for block quotes in text.
+Background color for code blocks in text.
+Background color for odd table rows.
+Background color for preformatted text segments.
+Background color for the border around the line at the cursor position.
+Background color for the highlight of line at the cursor position when the editor is not focused.
+Background color for the highlight of line at the cursor position.
+Background color for the margin where lines got inserted.
+Background color for the margin where lines got removed.
+Background color for the remote badge in the extensions view.
+Background color for the remote indicator on the status bar when hovering.
+Background color for the remote indicator on the status bar.
+Background color of activated options in input fields.
+Background color of active bracket pair guides (1). Requires enabling bracket pair guides.
+Background color of active bracket pair guides (2). Requires enabling bracket pair guides.
+Background color of active bracket pair guides (3). Requires enabling bracket pair guides.
+Background color of active bracket pair guides (4). Requires enabling bracket pair guides.
+Background color of active bracket pair guides (5). Requires enabling bracket pair guides.
+Background color of active bracket pair guides (6). Requires enabling bracket pair guides.
+Background color of active radio option.
+Background color of an empty editor group. Editor groups are the containers of editors.
+Background color of breadcrumb item picker.
+Background color of breadcrumb items.
+Background color of checkbox widget when the element it's in is selected.
+Background color of checkbox widget.
+Background color of editor widgets, such as find/replace.
+Background color of inactive active radio option when hovering.
+Background color of inactive bracket pair guides (1). Requires enabling bracket pair guides.
+Background color of inactive bracket pair guides (2). Requires enabling bracket pair guides.
+Background color of inactive bracket pair guides (3). Requires enabling bracket pair guides.
+Background color of inactive bracket pair guides (4). Requires enabling bracket pair guides.
+Background color of inactive bracket pair guides (5). Requires enabling bracket pair guides.
+Background color of inactive bracket pair guides (6). Requires enabling bracket pair guides.
+Background color of inactive radio option.
+Background color of inline hints
+Background color of inline hints for parameters
+Background color of inline hints for types
+Background color of menu items.
+Background color of sticky scroll in the editor
+Background color of sticky scroll in the panel.
+Background color of sticky scroll in the side bar.
+Background color of sticky scroll on hover in the editor
+Background color of the activity bar when set to top / bottom.
+Background color of the border around highlighted ranges.
+Background color of the border around highlighted symbols.
+Background color of the command center
+Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.
+Background color of the editor hover status bar.
+Background color of the editor hover.
+Background color of the editor overview ruler.
+Background color of the editor pane visible on the left and right side of the centered editor layout.
+Background color of the error activity badge
+Background color of the filtered match.
+Background color of the ghost text in the editor.
+Background color of the gutter part of sticky scroll in the editor
+Background color of the progress bar that can show for long running operations.
+Background color of the selected menu item in menus.
+Background color of the selected menu item in the menubar.
+Background color of the type filter widget in lists and trees.
+Background color of the warning activity badge
+Background color used to highlight unicode characters.
+Background hover color of options in input fields.
+Background of a disabled checkbox.
+Bad clarification
+Bad response
+Badge background color. Badges are small information labels, e.g. for search results count.
+Badge foreground color. Badges are small information labels, e.g. for search results count.
+Banner background color. The banner is shown under the title bar of the window.
+Banner foreground color. The banner is shown under the title bar of the window.
+Banner icon color. The banner is shown under the title bar of the window.
+Baseline model quota reached
+Basic Latin
+Before Christ
+Before removing overlaps
+Bend Points
+Best of
+Best of N
+Best of N Models
+Best of N Settings
+Best of N mode is not available
+Binary file
+Block Elements
+Blocked on Your Input
+Bopomofo Extended
+Border color between the activity bar at the top/bottom and the views.
+Border color between the two text editors.
+Border color for block quotes in text.
+Border color for regions with the same content as the selection.
+Border color of activated options in input fields.
+Border color of active sashes.
+Border color of an empty editor group that is focused. Editor groups are the containers of editors.
+Border color of checkbox widget when the element it's in is selected.
+Border color of checkbox widget.
+Border color of ghost text in the editor.
+Border color of menus.
+Border color of sticky scroll in the editor
+Border color of sticky scroll in the panel.
+Border color of sticky scroll in the side bar.
+Border color of the Search Editor query matches.
+Border color of the active radio option.
+Border color of the command center
+Border color of the command center when the window is inactive
+Border color of the current search match in the terminal.
+Border color of the current search match.
+Border color of the editor group title header. Editor groups are the containers of editors.
+Border color of the editor hover.
+Border color of the filtered match.
+Border color of the inactive radio option.
+Border color of the other search matches in the terminal.
+Border color of the other search matches.
+Border color of the selected menu item in menus.
+Border color of the selected menu item in the menubar.
+Border color of unnecessary (unused) source code in the editor.
+Border color of widgets such as find/replace inside the editor.
+Border color on headers and the splitter in inline merge-conflicts.
+Border color used to highlight unicode characters.
+Border on the side of the terminal tab in the panel. This defaults to tab.activeBorder.
+Box Drawing
+Box Layout Mode
+Box layout
+Braille Patterns
+Brandes & Koepf node placement
+Breadth first model order layering
+Breaking Point Insertion
+Breaking Point Processor
+Breaking Point Removing
+Browser Actuation Permissions
+Browser Actuation Rules
+Browser CDP Port
+Browser Javascript Execution Policy
+Browser Settings
+Browser Subagent Viewer
+Browser Task
+Browser User Profile Path
+Browser task
+Bug Report
+Build Cleaner completed for
+Build Cleaner is running on
+Build With Google Plugins
+Build with Google
+Button background color when hovering.
+Button background color.
+Button border color.
+Button foreground color.
+Button separator color.
+By using this app, you agree to its
+Byzantine Musical Symbols
+Calculate Graph Size
+Can you help me apply these changes manually?
+Cancel (Ctrl+D)
+Cancel All Tasks
+Cancel Task
+Cancel recording
+Cancel step
+Cancel task
+Canceled creation of
+Canceled deletion of
+Canceled edit to
+Cannot add elements to a Range
+Cannot close persistent tab
+Cannot dispose a disposable on itself!
+Cannot mutate an immutable Map
+Cannot offset an unassigned cut.
+Cannot register a disposable on itself!
+Cannot remove elements from a Range
+Cannot revert messages before or at the point where Best of N mode was triggered
+Cannot revert messages with artifact comments
+Cannot revert messages with file comments
+Cannot revert messages with file diff comments
+Cannot revert this message
+Cannot send message to subagent.
+Cannot send, passive connection
+Cannot set elements in a Range
+Cannot skip: missing cascadeId or stepIndex
+Cannot start best of N mode while the agent is running
+Cannot suppress a null exception.
+Cannot use method in read-only mode.
+Caps Lock
+Capture console logs
+Capture screenshot
+Center On Root
+Chat Model Metadata
+Chat Settings
+Check again
+Check for Updates
+Checked command status
+Checking agent Google Drive access...
+Checking command status
+Checks for pending changes before merging.
+Child Area Height
+Child Area Width
+Children of root nodes must be elements or decorators
+Choose whether to be notified when the agent needs your attention or completes a task.
+Chooses an Edge Routing algorithm.
+Chrome Binary Path
+Cider Connector Chrome extension not found. Install http://go/cider-connector
+Clear & concise
+Clear filter
+Clear search
+Cleared Count
+Click on "Send feedback"
+Click to copy URL
+Click to copy full command
+Click to disable tool
+Click to enable tool
+Click to learn more about sources
+Click to respond to the question.
+Click to respond to the questions.
+Clicked in Browser
+Clicking in Browser
+Clone current workspace into a new independent workspace
+Close (Escape)
+Close Auxiliary Pane
+Close Folder
+Close Logs Modal
+Close Tab
+Close Terminal Tab
+Close Workspace
+Close skills panel
+Close split view and go to forked conversation
+Code Context Items
+Code Search
+Code search
+Code search is not available.
+Collapse All
+Color for matching brackets boxes
+Color for text separators.
+Color needs a value
+Color of a separator menu item in menus.
+Color of active links.
+Color of editor active line number
+Color of editor line numbers.
+Color of focused breadcrumb items.
+Color of secondary editor cursors when multiple cursors are present.
+Color of selected breadcrumb items.
+Color of the Search Editor query matches.
+Color of the active editor indentation guides (1).
+Color of the active editor indentation guides (2).
+Color of the active editor indentation guides (3).
+Color of the active editor indentation guides (4).
+Color of the active editor indentation guides (5).
+Color of the active editor indentation guides (6).
+Color of the active editor indentation guides.
+Color of the current search match.
+Color of the diff editor's diagonal fill. The diagonal fill is used in side-by-side diff views.
+Color of the editor cursor.
+Color of the editor indentation guides (1).
+Color of the editor indentation guides (2).
+Color of the editor indentation guides (3).
+Color of the editor indentation guides (4).
+Color of the editor indentation guides (5).
+Color of the editor indentation guides (6).
+Color of the editor indentation guides.
+Color of the editor rulers.
+Color of the editor selection.
+Color of the overview ruler border.
+Color of the primary editor cursor when multiple cursors are present.
+Color of the selected text for high contrast.
+Color of the text in the search viewlet's completion message.
+Color of whitespace characters in the editor.
+Colors and styles for the token.
+Combining Diacritical Marks
+Combining Half Marks
+Combining Marks for Symbols
+Combining Projects
+Command Center
+Command Center loaded
+Command Palette
+Command execution
+Command is required
+Command picker
+Command spec is required
+Commands Outside Sandbox
+Commands the agent can run outside the sandbox in this workspace.
+Commands the agent can run outside the sandbox.
+Comment Box
+Comment Comment Spacing
+Comment Node Spacing
+Comment post-processing
+Comment pre-processing
+Commented on:
+Common ancestor overview ruler foreground for inline merge-conflicts.
+Compaction Step Size
+Compaction Strategy
+Compaction by shrinking a tree
+Compaction iterations
+Complete verification
+Completed fully
+Component Layout
+Components Spacing
+Compound graph postprocessor
+Compound graph preprocessor
+Configuration saved successfully!
+Configure AI models and view your quota.
+Configure Branches
+Configure agent hooks
+Configure allowed and denied URLs for browser actuation.
+Configure allowed and denied URLs for reading.
+Configure allowed and denied paths for file reads and writes.
+Configure allowed commands outside the sandbox.
+Configure allowed terminal commands.
+Configure default behaviors, skills, and MCP servers.
+Configure editor-specific behaviors and shortcuts.
+Configure external tools via Model Context Protocol.
+Configure global allowed and denied resource permissions.
+Configure settings for Best of N mode.
+Configure the agent's visual theme and display preferences.
+Configure the browser subagent. It requires
+Configure workspace-specific permissions, resources, and customizations.
+Configures how the agent tries to access files outside of its working folders.
+Confirm Browser Interaction
+Confirm Undo
+Confirm Window Reload
+Confirm the command is safe to run outside of the sandbox with full network and disk access.
+Confirmation required to execute this step
+Confirming this undo action will make the following changes:
+Connect to Remote Workspace
+Connected Components Compaction
+Connected Components Compaction Strategy
+Connected Components Layout Algorithm
+Connecting to language server...
+Connection has closed.
+Connection is closed
+Consider Model Order
+Consider Model Order for Components
+Consider Port Order
+Console logs
+Constraints Postprocessor
+Container ref is null
+Content Alignment
+Content Handler Registry
+Continue (Enter)
+Continue with Google
+Continue with different account
+Control Pictures
+Controls whether terminal commands require your approval before running.
+Conversation History
+Conversation copied as Markdown to clipboard
+Conversation picker
+Convert to Google Doc
+Coordinated Universal Time
+Copied to clipboard
+Copy Command
+Copy Config Path
+Copy Content
+Copy File Name
+Copy File Path
+Copy Path
+Copy Workspace Name
+Copy code
+Copy conversation markdown
+Copy debug info
+Copy full URL to clipboard
+Copy path
+Copy prompt
+Copy sign-in link
+Copy the trajectory ID
+Copy to clipboard
+Copy trajectory ID
+Corp Password
+Correction Factor for Wrapping
+Cost Function for Spanning Tree
+Could not create blob from canvas
+Could not determine MCP config file path
+Could not determine MCP config file path. Please check your home directory settings.
+Could not determine agent config file path
+Could not determine plugin config file path
+Could not get canvas context
+Could not load raw safevalues
+Could not read MCP config file
+Could not start conversation.
+Create Documents
+Create New Project
+Create Project
+Create a Project
+Create a new Fig workspace
+Create a new project. You can add folders to it now or later.
+Create a project in the sidebar first
+Create project from scratch
+Create project with existing folder(s).
+Created At
+Created outline
+Creating a Project
+Creating environment...
+Creating or removing a listener requires one of the known fields for matching an action
+Creating projects for your conversations
+Cron expression e.g. 0 */6 * * *
+Crossing Counter Node Order Influence
+Crossing Counter Port Order Influence
+Crossing Minimization Strategy
+Cumulative Total
+Currency Symbols
+Current overview ruler foreground for inline merge-conflicts.
+Current position of a node in the order of nodes
+Custom Agents
+Custom View
+Custom models are only supported on Linux machines.
+Customization token budget exceeded. Large customizations will be truncated.
+Customize Global Skills
+Cutting Strategy
+Cycle Breaking Strategy
+Cyclic deriveds are not supported yet!
+Dampens the movement of nodes to keep the diagram from getting too large.
+Danger Zone
+Dark Theme
+Dark preview
+Data loss
+Data serializer was not provided.
+Date Added
+Deadline exceeded
+Debug (Disabled)
+Debug (Enabled)
+Debug Mode
+Debug Sidebar
+Default Branch
+Default Customizations
+Default Dark
+Default Light
+Define padding for node labels that are placed inside of a node.
+Defines constraints of the position of the ports of a node.
+Defines the default port distribution for a node. May be overridden for each side individually.
+Delaunay triangulation
+Delete Conversation
+Delete Data Directory
+Delete Handler
+Delete Hook
+Delete Permanently
+Delete Project
+Delete Task
+Delete agent
+Delete command
+Delete pending message
+Delete server
+Denied Sites
+Deny List Terminal Commands
+Deny setting up browser
+Depth first model order layering
+Describe the bug you encountered...
+Describe the feature you would like to see...
+Describe your auth or billing issue...
+Desired Child Area: (
+Desired Edge Length
+Desired index of node
+Determines a constraint on the placement of the node regarding the layering.
+Determines in which layer center labels of long edges should be placed.
+Determines the amount of space to be left between two labels of the same graph element.
+Determines the markup language of the output.
+Determines the model for force calculation.
+Determines which point of a node is considered by interactive layout phases.
+Did not call before(...) or after(...) before calling add(...).
+Did not receive status from server endpoint.
+Diff overview ruler foreground for inserted content.
+Diff overview ruler foreground for removed content.
+Diff worker fatal error:
+Dimensions that are permitted to be altered during layout.
+Direction Congruency
+Direction Priority
+Directory Viewer
+Disable Eager Cloning
+Disable Task
+Disable pre-warming of workspace clones.
+Disabled in strict mode
+Disables all safety barriers for maximal iteration velocity.
+Dismiss Skills
+Dismiss Tip
+Dismiss error
+Dismiss suggested actions
+Display Options
+Display and preserve intermediate thinking steps
+Distance Penalty When Improving Cuts
+Document Access
+Document Answers
+Double subscript
+Double superscript
+Download Agent State Debug Diagnostics
+Download feature is not available.
+Downloading Update
+Dragged in Browser
+Dragging in Browser
+Drop to add to Agent
+Dropdown background.
+Dropdown border.
+Dropdown foreground.
+Dropdown list background.
+Dynamic require of "
+Eades Repulsion
+Eades radial
+Ecore Factory Override Registry
+Ecore Package Registry Implementation
+Ecore Package Registry for Dynamic Packages
+Ecore Package Registry for Generated Packages
+Edge Center Label Placement Strategy
+Edge Edge Between Layer Spacing
+Edge End Texture Length
+Edge Label Placement
+Edge Label Side Selection
+Edge Label Spacing
+Edge Node Between Layers Spacing
+Edge Node Spacing
+Edge Routing
+Edge Routing Mode
+Edge Spacing
+Edge Thickness
+Edge Type
+Edge and layer constraint edge reversal
+Edge did not exist in input.
+Edge joining
+Edge routing
+Edge splitting
+Edges must have a source.
+Edges must have a target.
+Edit Config
+Edit Conversation Title
+Edit Custom Model
+Edit Model
+Edit comment
+Edit config
+Edit permission target
+Edit project name
+Edit task title
+Editor Settings
+Editor background color.
+Editor default foreground color.
+Either cascadeId or sectionId must be provided
+Either specified for parent nodes or for individual edges, where the latter takes higher precedence.
+Elegant code
+Empty mermaid diagram
+Empty script.
+Empty string not allowed.
+Enable AI Credit Overages
+Enable Browser Tools
+Enable Demo Mode (Beta)
+Enable Overages
+Enable Remote Control
+Enable Sandbox Mode (Preview)
+Enable Shell Integration
+Enable Sounds for Agent
+Enable Task
+Enable Telemetry
+Enable Terminal Sandbox
+Enable Workspace API
+Enclosed Alphanumerics
+Enclosed CJK Letters and Months
+Encountered an error while sending a message.
+Encountered and error while running the sidecar.
+Encountered errors while disposing of store
+Encountered out of order data
+End label post-processing
+End label pre-processing
+End of comment missing
+Enlarged Mermaid diagram
+Enlarged image
+Enlarged media
+Enter Google Cloud Project Details
+Enter URL pattern...
+Enter a prompt for the agent
+Enter command (e.g., git, blaze)...
+Enter command...
+Enter corp password for
+Enter directory path...
+Enter file or directory path...
+Enter target...
+Enter task name
+Enter the required configuration values to install this MCP server.
+Enter tool name or server...
+Enter your feedback here...
+Environment Selection
+Equal Whitespace Eliminator
+Error Details:
+Error checking microphone availability:
+Error checking step visibility:
+Error during tool execution
+Error editing file
+Error editing notebook
+Error fetching MCP prompt
+Error fetching MCP prompts:
+Error fetching MCP resources:
+Error fetching artifact
+Error fetching available skills:
+Error fetching rules:
+Error fetching system slash commands:
+Error fetching workflows, skills, and MCP prompts:
+Error in event listener:
+Error loading Browser recording
+Error occurred during import.
+Error parsing JSON:
+Error reading notebook
+Error refreshing user status:
+Error rendering playback
+Error viewing file
+Error while analyzing directory
+Error while editing
+Error while editing notebook
+Error while reading notebook
+Error while running MCP tool
+Error while running command
+Error while searching
+Error while searching filesystem
+Error while searching the web
+Error while semantic searching
+Error while viewing
+Event fired
+Every element must have an id.
+Excellent tool usage
+Exception can not suppress itself.
+Exceptional work
+Execute Javascript policy
+Execute URLs
+Execution Command
+Expand All
+Expand Nodes
+Expected '
+Expected a control sequence
+Expected a function
+Expected a macro definition
+Expected a notFound error
+Expected a redirect error
+Expected a string
+Expected behavior
+Expected character
+Expected find and replace tuple or list of tuples
+Expected function, string, or object as test
+Expected group after '
+Expected l or c or r
+Expected parentElement of Text not to be null
+Expected substring
+Expected to be in ESTABLISHED state
+Expecting ,
+Expecting a list of key-value pairs.
+Expecting null
+Expecting true or false
+Experimental model. Click to provide feedback or opt out.
+Expired or Invalid
+Explain and Fix
+Explain and Fix in Current Conversation
+Export Artifact
+Export artifact
+Extensions connection warning
+Extensions stream disconnected. Reconnecting...
+External tools the agent can call via Model Context Protocol.
+Extracted DOM elements
+Extracting DOM elements
+Failed precondition
+Failed to add URL to allowlist:
+Failed to approve browser interaction
+Failed to approve execution
+Failed to approve file access
+Failed to build
+Failed to build code block, falling back to plaintext:
+Failed to cancel side question:
+Failed to capture browser console logs:
+Failed to capture browser console logs: No console logs found
+Failed to capture screenshot:
+Failed to check auth status
+Failed to clear project settings:
+Failed to copy conversation markdown:
+Failed to copy path
+Failed to copy:
+Failed to create ARI
+Failed to create new workspace
+Failed to create project from scratch:
+Failed to create project:
+Failed to create scheduled task.
+Failed to create scheduled task:
+Failed to create terminal:
+Failed to create workspace.
+Failed to create worktree:
+Failed to decode optimistic user message:
+Failed to decode pending agent message:
+Failed to delete agent:
+Failed to delete conversation
+Failed to delete conversation:
+Failed to delete scheduled task.
+Failed to delete sidecar
+Failed to delete worktree
+Failed to delete worktree:
+Failed to deny file access
+Failed to disconnect OAuth:
+Failed to download Firebase skill.
+Failed to download plugins:
+Failed to edit
+Failed to enable Drive access:
+Failed to end battle mode
+Failed to end session
+Failed to establish connection.
+Failed to execute
+Failed to export RPC debug buffer
+Failed to export file:
+Failed to extract element context:
+Failed to extract range context:
+Failed to extract waveform:
+Failed to fetch MCP prompt:
+Failed to fetch Mendel flags
+Failed to fetch NUX configs:
+Failed to fetch available MCP servers:
+Failed to fetch branches and default in wizard
+Failed to fetch branches in wizard
+Failed to fetch credits:
+Failed to fetch events
+Failed to fetch media for revert:
+Failed to fetch models:
+Failed to fetch plugins
+Failed to fetch recommended skills:
+Failed to fetch skills paths:
+Failed to fetch skills:
+Failed to fetch turn diff:
+Failed to generate skill installation CL:
+Failed to get ARI for artifact:
+Failed to handle jetski-add-skills message:
+Failed to initialize terminal:
+Failed to list logs in modal
+Failed to load MCP servers
+Failed to load conversation
+Failed to load custom agents
+Failed to load customizations
+Failed to load image
+Failed to load image frame
+Failed to load plugins
+Failed to load trajectory
+Failed to load video
+Failed to match URI authority
+Failed to match URI authority:
+Failed to match forked conversation route:
+Failed to match subagent route:
+Failed to move changes
+Failed to open MCP config file
+Failed to open Review Changes:
+Failed to open agent config file
+Failed to open agent config:
+Failed to open plugin config file
+Failed to opt out of Gemini Next:
+Failed to parse diagnostics:
+Failed to parse elicitation schema
+Failed to parse input
+Failed to parse quota metadata
+Failed to parse quota reset timestamp
+Failed to parse saved battle mode models:
+Failed to parse tool JSON schema:
+Failed to process video
+Failed to read
+Failed to read file content
+Failed to read hooks.json:
+Failed to record code assist metrics:
+Failed to register interaction:
+Failed to reject browser interaction
+Failed to reject execution
+Failed to remove agent:
+Failed to remove plugin:
+Failed to rename conversation
+Failed to rename conversation:
+Failed to render diagram
+Failed to render math
+Failed to request Drive access:
+Failed to resolve folder
+Failed to resolve folder in enrichment
+Failed to resolve folder type
+Failed to resolve git folder in enrichment
+Failed to restart scheduled task
+Failed to retrieve slash commands metadata:
+Failed to revoke Drive access:
+Failed to save project
+Failed to save task updates
+Failed to scan skills config file:
+Failed to search files in command palette:
+Failed to send
+Failed to send browser cancellation interaction
+Failed to send browser confirmation interaction
+Failed to send command input
+Failed to send deny browser setup interaction
+Failed to send message
+Failed to send open browser setup interaction
+Failed to send read url content interaction
+Failed to send user interaction
+Failed to set branch
+Failed to skip browser subagent:
+Failed to start audio streaming
+Failed to start screen recording
+Failed to stringify diagnostics:
+Failed to submit auth code:
+Failed to submit elicitations interaction
+Failed to toggle agent:
+Failed to update active agents count:
+Failed to update agent:
+Failed to update conversation annotations:
+Failed to update project:
+Failed to update scheduled task
+Failed to update task title
+Failed to validate URI:
+Failed to write hooks.json:
+Favor Straight Edges Over Balancing
+Feature Request
+Feature Setting Delegate Factory Registry
+Feedback Edges
+Feedback Type
+Fetched network request
+Fetched network request for page.
+Fetched network requests
+Fetched network requests for page.
+Fetching network request
+Fetching network requests
+File Access
+File Access Rules
+File Comments
+File Diff Comments
+File Permissions
+File Picker
+File Reads
+File URL host must be "localhost" or empty on darwin
+File URL path must not include encoded / characters
+File Viewer
+File Writes
+File not found
+File picker
+File system provider not available
+Files Changed
+Files to edit:
+Fill Polyominoes
+Finalizing transcription...
+Find in Pane
+Find roots
+Fira Code
+Fires after a tool step completes.
+Fires after tool calls finish.
+Fires before a tool step executes.
+Fires before the model is called.
+Fires when the execution loop terminates.
+First argument must be a string
+First bytes:
+First child must have type "elem".
+First page
+Fixed Graph Size
+Fixed Layout
+Fixed Position
+Flexible Where Space Processing
+Focus Editor
+Focus Input
+Folder doesn't exist
+Folder no longer exists or is unavailable.
+Font Name
+Font Size
+Font name used for a label.
+Font size used for a label.
+For Antigravity Business consumption options, see
+For a full list of available locations and deployment endpoints, please refer to the
+For any feedback that does not fit into the above categories.
+For turn
+Force Model
+Force Node Model Order
+Foreground color for description text providing additional information, for example for a label.
+Foreground color for links in text when clicked on and on mouse hover.
+Foreground color for links in text.
+Foreground color for preformatted text segments.
+Foreground color for the remote badge in the extensions view.
+Foreground color for the remote indicator on the status bar when hovering.
+Foreground color for the remote indicator on the status bar.
+Foreground color for the token.
+Foreground color of activated options in input fields.
+Foreground color of active radio option.
+Foreground color of brackets (1). Requires enabling bracket pair colorization.
+Foreground color of brackets (2). Requires enabling bracket pair colorization.
+Foreground color of brackets (3). Requires enabling bracket pair colorization.
+Foreground color of brackets (4). Requires enabling bracket pair colorization.
+Foreground color of brackets (5). Requires enabling bracket pair colorization.
+Foreground color of brackets (6). Requires enabling bracket pair colorization.
+Foreground color of checkbox widget.
+Foreground color of editor widgets, such as find/replace.
+Foreground color of error squigglies in the editor.
+Foreground color of hint squigglies in the editor.
+Foreground color of inactive radio option.
+Foreground color of info squigglies in the editor.
+Foreground color of inline hints
+Foreground color of inline hints for parameters
+Foreground color of inline hints for types
+Foreground color of list items containing errors.
+Foreground color of list items containing warnings.
+Foreground color of menu items.
+Foreground color of the command center
+Foreground color of the command center when the window is inactive
+Foreground color of the editor hover.
+Foreground color of the error activity badge
+Foreground color of the ghost text in the editor.
+Foreground color of the other search matches.
+Foreground color of the selected menu item in menus.
+Foreground color of the selected menu item in the menubar.
+Foreground color of the terminal initial hint.
+Foreground color of the warning activity badge
+Foreground color of unexpected brackets.
+Foreground color of warning squigglies in the editor.
+Foreground of a disabled checkbox.
+Forgot context
+Found obscure file
+Found references to
+Frames must be associated with a stream.
+From Event
+Full Error
+Full Metadata
+Full access
+Full machine
+Full output written to
+Gcert Authentication
+Gcert renewed successfully!
+Gemini 2.5 Flash Image
+Gemini 3 Pro Image
+Gemini 3.1 Flash Image
+Gemini Next
+General Compactor
+General Feedback
+General Punctuation
+Generate #
+Generate Position and Layer IDs
+Generated Steps (
+Generated image
+Generated image preview
+Generation Steps (
+Generator Metadata (
+Generic Tool
+Geometric Shapes
+Get More AI Credits
+Get started by creating your first project.
+Getting scripts...
+Getting started with a Project
+Git commit
+Given enter edge is a tree edge already.
+Given leave edge is no tree edge.
+Gives a hint on where to put edge labels.
+Gives the agent permission to create and upload documents to google drive
+Global Artifact
+Global Artifact Viewer
+Go Back
+Go Forward
+Go to
+Go to Projects
+Good response
+Google Antigravity - Experience liftoff
+Google Chrome
+Google Cloud Project ID
+Google Drive
+Google Drive Access
+Google Drive integration not available
+Google Privacy Policy
+Google Tooling
+Got function '
+Got group of unknown type: '
+Got it
+Grand Total
+Grant the agent access to interact with your Google Drive documents.
+Graph Wrapping Strategy
+Graph must not contain hyperedges.
+Graph transformation (
+Grasped nuance perfectly
+Greedy Switch Activation Threshold
+Greedy Switch Crossing Minimization
+Greedy Switch Crossing Minimization (hierarchical)
+Greedy Width Approximator
+Greedy cycle removal
+Greek Extended
+Group By
+Grow Tree
+Guide line for the chart.
+Halfwidth and Fullwidth Forms
+Handler #
+Hangul Compatibility Jamo
+Hangul Jamo
+Hangul Syllables
+Having trouble? Let us know
+Headers must be received before any other frames.
+Headers must be sent before any other frames.
+Help me understand the current context.
+Helpful explanation
+Hide 0s
+Hide Editor
+Hide Error
+Hide Sidebar
+Hide breakdown
+Hide tools
+Hierarchical Sweepiness
+Hierarchical port constraint processing
+Hierarchical port dummy size processing
+Hierarchical port position processing
+Hierarchy Handling
+High Contrast Dark
+High Contrast Light
+High Degree Node Maximum Tree Height
+High Degree Node Threshold
+High Degree Node Treatment
+Highlight After Accept
+Highlight background color of a snippet tabstop.
+Highlight background color of the final tabstop of a snippet.
+Highlight border color of a snippet tabstop.
+Highlight border color of the final tabstop of a snippet.
+Highlight newly inserted text after accepting a Tab completion.
+Highly independent
+Hook will trigger if any tool is executed.
+Hook with this name already exists
+Horizontal Compaction
+Horizontal alignment cannot be null
+Horizontal spacing between Label and Port
+How likely it is to use cross-hierarchy (1) vs bottom-up (-1).
+How much effort should be spent to produce a nice layout.
+How this feature would help you and other users
+However we need to passthrough the following props:
+Hyperedge merging
+Hyperedges are not supported.
+Hypernodes processing
+Ideographic Description Characters
+If active, nodes are expanded to fill the area of their parent.
+If set, color of double underlines for errors in the editor.
+If set, color of double underlines for hints in the editor.
+If set, color of double underlines for infos in the editor.
+If set, color of double underlines for warnings in the editor.
+Illegal delimiter: '
+Image Answers
+Image Diff Not Supported
+Image URL:
+Image rendering blocked (strict mode enabled)
+Immer forbids circular references
+Immer only supports deleting array indices
+Immer only supports setting array indices and the 'length' property
+Import AI Studio Project
+Import failed:
+Import feature is not available in this context.
+Import success:
+Improve Cuts
+Improve Wrapped Edges
+In Layer Predecessor of
+In Layer Successor of
+In Progress
+In new Row
+Include Jetski Default Customizations
+Incoming overview ruler foreground for inline merge-conflicts.
+Incomplete / Gave up
+Incomplete placeholder at end of macro body
+Individual Spacing
+Inherit Editor
+Inherits from
+Initial capacity must not be negative
+Inline Edge Labels
+Input box background.
+Input box border for inputs in the panel.
+Input box border.
+Input box foreground color for placeholder text.
+Input box foreground.
+Input edge is not connected to the input port.
+Input validation background color for error severity.
+Input validation background color for information severity.
+Input validation background color for warning severity.
+Input validation border color for error severity.
+Input validation border color for information severity.
+Input validation border color for warning severity.
+Input validation foreground color for error severity.
+Input validation foreground color for information severity.
+Input validation foreground color for warning severity.
+Insert in terminal
+Inside Self Loop
+Inspected commit
+Install Antigravity IDE to run and edit your workspace scripts.
+Install IDE
+Install Update
+Installed MCP Servers
+Installed Skills
+Installing Update
+Instantly create a new project and folder to start building.
+Insufficient AI Credits
+Intent understanding
+Interactive Node Reorderer
+Interactive Reference Point
+Interactive crossing minimization
+Interactive cycle breaking
+Interactive node layering
+Interactive node placement
+Internal search
+Intersection results could not be merged
+Invalid JSON
+Invalid Media
+Invalid UTF8
+Invalid Unicode code point.
+Invalid Unicode hex notation.
+Invalid argument
+Invalid argument number "
+Invalid attribute name '
+Invalid base-
+Invalid color ctor argument
+Invalid color: '
+Invalid date
+Invalid delimiter '
+Invalid delimiter type '
+Invalid environment name
+Invalid event target
+Invalid event type
+Invalid function arguments
+Invalid function return type
+Invalid hexadecimal
+Invalid hitboxes for scanline constraint calculation.
+Invalid hitboxes for scanline overlap calculation.
+Invalid input
+Invalid key: '
+Invalid list
+Invalid listener argument
+Invalid quantifier. A digit is expected.
+Invalid quantifier. A min quantity must be <= a max quantity.
+Invalid quantifier. A quantity value overflow.
+Invalid reference number.
+Invalid regex pattern in schema
+Invalid size: '
+Invalid time value
+Invalid token after macro prefix
+Invalid token modifier id.
+Invalid token super type id.
+Invalid token type id.
+Invalid type set for this layout option.
+Invalid unit: '
+Invariant failed
+Inverted port preprocessing
+Invoked subagent
+Iteration Limit
+Iterator already in use or already filtered
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+January February March April May June July August September October November December
+Junction Points
+Just a moment
+Kangxi Radicals
+Keep In Menu Bar
+Keybinding label background color. The keybinding label is used to represent a keyboard shortcut.
+Keybinding label border bottom color. The keybinding label is used to represent a keyboard shortcut.
+Keybinding label border color. The keybinding label is used to represent a keyboard shortcut.
+Keybinding label foreground color. The keybinding label is used to represent a keyboard shortcut.
+Keyboard shortcuts for quick navigation and control.
+Knowledge Generation
+Knowledge feature is not available.
+Knowledge view loaded
+Label Manager
+Label Node Spacing
+Label Spacing
+Label and node size calculator can only be used with ports that have port sides assigned.
+Label dummy insertions
+Label dummy removal
+Label dummy switching
+Label management
+Label side selection (
+Lacked initiative
+Language server client not available
+Last Updated
+Last page
+Latin Extended Additional
+Latin Extended-A
+Latin Extended-B
+Launching the browser...
+Layer Bound
+Layer Choice Constraint
+Layer Constraint
+Layer ID
+Layer constraint edge reversal
+Layer constraint postprocessing
+Layer constraint preprocessing
+Layer size calculation
+Layered layout
+Layout Algorithm
+Layout Ancestors
+Layout Controls
+Layout Dimension
+Layout Hierarchy
+Layout Partition
+Layout Partitioning
+Layouter for arranging unconnected subgraphs. The subgraphs themselves are, by default, not laid out.
+Learn more
+Learn more about
+Learn more by visiting our
+Learn more.
+Leave a comment
+Letterlike Symbols
+Light Theme
+Light preview
+Limit controls must follow a math operator
+Limits the number of iterations for node promotion.
+Line color for the chart.
+Linear Segments Deflection Dampening
+Linear segments node placement
+List of Polyominoes
+Listener for type "command" requires a "priority".
+Loading Browser recording...
+Loading MCP servers...
+Loading Notebook View...
+Loading conversation...
+Loading custom agents...
+Loading events...
+Loading hooks...
+Loading logs...
+Loading models...
+Loading plugins...
+Loading recommendations...
+Loading skills...
+Loading summary...
+Loading token usage...
+Loading trajectory...
+Loading workspace customizations...
+Local Permissions
+Log in to use the agent
+Login failed
+Login to give your agent access to Google Drive
+Long Edge Ordering Strategy
+Long pages like this one will be broken down into outlines and read as needed. Read more at our
+Longest path layering
+Longest path to source layering
+Lost connection to the language server. Agent features may not work.
+Main Agent
+Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+Makes room around high degree nodes to place leafs and trees.
+Malformed diff information
+Manage Google Drive access permissions.
+Manage Hooks
+Manage Skills
+Manage application settings.
+Manage project folders, agent settings, and permissions.
+Manage your notification preferences.
+Manage your plan, credentials, and general preferences.
+Manually Captured
+Manually Rejected
+Manually Specified Cuts
+Manually customize individual settings.
+Mark as Read
+Mark as Unread
+Marketing Emails
+Marketplace Gallery URL
+Marketplace Item URL
+Match case
+Match case (Aa)
+Match whole word
+Match whole word (ab)
+Mathematical Alphanumeric Symbols
+Mathematical Operators
+Max Node Promotion Iterations
+Max Tokens
+Maximal Animation Time
+Maximum Active Workspaces
+Maximum Clones Per Workspace
+Maximum height of a subtree connected to a high degree node to be moved to separate layers.
+Maximum number of concurrent active source workspaces tracked in the clone pools.
+Maximum number of pre-warmed workspace clones cached per active source workspace.
+Maximum spanning tree construction
+Media upload failed after 3 attempts.
+Memoize should only be used in functions with zero parameters
+Mention Page
+Mention Selection
+Merge Edges
+Merge Hierarchy-Crossing Edges
+Merge Strategy:
+Mermaid diagram
+Mermaid rendering error:
+Message input
+Meta data associated with the selected algorithm.
+Metadata #
+Method to decide on edge label sides.
+Microsoft Edge
+Min Size Postprocessing
+Min Size Preprocessing
+Minified React error #
+Minimal Animation Time
+Minimap background color.
+Minimap marker color for errors.
+Minimap marker color for find matches.
+Minimap marker color for infos.
+Minimap marker color for repeating editor selections.
+Minimap marker color for the editor selection.
+Minimap marker color for warnings.
+Minimap slider background color when clicked on.
+Minimap slider background color when hovering.
+Minimap slider background color.
+Minimum spanning tree construction
+Miscellaneous Symbols
+Miscellaneous Technical
+Missing Focus.First, Focus.Previous, Focus.Next or Focus.Last
+Missing Folder
+Missing Folders
+Missing LS CSRF token cookie
+Missing native storage bridge
+Missing notifications functionality
+Missing trajectoryId or stepIndex for interaction
+Model Credits
+Model Label
+Model Quota
+Model URL
+Model URL info
+Model must be available on the Gemini API and use the gemini-api scheme.
+Model order cycle breaking
+Model quota exhausted
+Model quota reached
+Models Tab
+Modified files:
+Modify scoped permissions, folders, and agent settings like Sandbox and Terminal Command Execution.
+More actions
+Mouse button pressed
+Mouse button released
+Move changes to main
+Moved Mouse in Browser
+Moving Mouse in Browser
+Musical Symbols
+Must be positive
+Must provide a base reference or pass in a patch
+My Custom Gemini Model
+Name can only contain letters, spaces, and hyphens.
+Name is required
+Name must be folder-safe (alphanumeric, underscores, hyphens; must start with alphanumeric)
+Name your project
+Navigate to
+Needs Attention
+Needs attention
+Negative bit address
+Negative exponent
+Negative initial capacity
+Network Access Rules
+Network Permissions
+Network simplex
+Network simplex layering
+Network simplex node placement
+New Agent Script
+New Collection violated the Collection spec
+New Conversation
+New Conversation in Project
+New Conversation in Workspace
+New Editor Window
+New Fig Workspace
+New Project
+New Scheduled Task
+New Terminal Tab
+New Workspace
+New Worktree
+New conversation
+New hook name
+New standalone conversation, outside of projects.
+Next match
+Next match (Enter)
+Next page
+No Compaction
+No Custom Agents or Plugins
+No Javascript Result Output
+No Layout
+No MCP Servers
+No MCP servers found for "
+No Model Order
+No Model Selected
+No Plugins Available
+No Project
+No Subtitle
+No agent client available to start conversation
+No answer provided
+No antigravity user settings main service found
+No artifacts generated.
+No background tasks
+No browser pages open
+No build files are updated.
+No cascade ID provided
+No changes to move
+No changes to review
+No character metrics for '
+No chat model metadata available for this generator
+No chat model metadata available in latest generator metadata
+No children conversation IDs returned from server
+No content available for this resource
+No conversation found
+No conversation selected
+No conversations available
+No conversations match the selected filters
+No conversations matching your search
+No conversations yet
+No crossing minimization
+No customizations found for this workspace.
+No description
+No description available.
+No diagnostics main service found
+No documents added yet.
+No events recorded.
+No file changes.
+No files or folders found
+No folders added yet.
+No generator metadata available
+No host configured for command.
+No host configured for terminal.
+No host provided
+No insert provided for key not already in map
+No internet. Agent features may not work.
+No items found
+No log outputs for this task
+No logs available.
+No matching results
+No message prompts available
+No model specified for Battle Mode, falling back to use current selected model
+No models available
+No more recommendations available.
+No native storage bridge found during initialization
+No permissions configured.
+No plugins available.
+No project selected
+No project selected or project management not available.
+No projects found
+No recommended skills found in workspace
+No resources available
+No results
+No results found
+No results found.
+No scheduled tasks configured.
+No scheduled tasks matching your search
+No screenshot returned from captureScreenshot RPC
+No skills available
+No skills loaded.
+No step index found for artifact code action step
+No step index found for code action step
+No subagents
+No timeout provided.
+No token data available.
+No trajectory
+No update service found
+No workspace URI available to validate input
+No workspace window available
+No workspaces yet
+Node Flexibility
+Node Flexibility Default
+Node Label Padding
+Node Label Placement
+Node Layering Strategy
+Node Node Between Layers Spacing
+Node Placement Strategy
+Node Promotion Strategy
+Node Self Loop Spacing
+Node Size Constraints
+Node Size Minimum
+Node Size Options
+Node Spacing
+Node and Port Label Placement and Node Sizing
+Node did not exist in input.
+Node margin calculation
+Node promotion heuristic
+None (clear inherited style)
+None selected
+Not Found
+Not Signed In
+Not a valid argument number
+Not eligible for autorun
+Not found
+Not implemented
+Not in Project
+Not now
+Not scheduled
+Not supported by LGraph
+Not supported.
+Notification Preferences
+Notification Settings
+Notification links foreground color. Notifications slide in from the bottom right of the window.
+Notification toast border color. Notifications slide in from the bottom right of the window.
+Notifications are disabled in remote control mode.
+Notifications background color. Notifications slide in from the bottom right of the window.
+Notifications center border color. Notifications slide in from the bottom right of the window.
+Notifications foreground color. Notifications slide in from the bottom right of the window.
+Now that you've created a project, configure your project's agent settings or start a conversation.
+Null argument, please report this as a bug
+Number Forms
+Number must be finite
+Odd port side processing
+Old Italic
+Omit Node Micro Layout
+One Dark Pro
+One Light
+Only element or decorator nodes can be inserted in to the root node
+Only support nodes and ports.
+Only works when Auto-execution policy is set to "Request Review" on a go/limited-internet host.
+Open Agent on Reload
+Open Agent panel on window reload
+Open Antigravity IDE
+Open Browser Setup
+Open Command Palette
+Open Commit Graph
+Open Conversation
+Open Conversation History
+Open Conversation Picker
+Open Diff
+Open Editor
+Open Editor Settings
+Open File Search
+Open Folder
+Open IDE
+Open Keyboard Shortcuts
+Open Launchpad
+Open MCP Config
+Open Preferences
+Open Project Picker
+Open Settings
+Open Setup Window
+Open System Browser
+Open System Preferences
+Open Trajectory Dashboard
+Open URL
+Open Workspace
+Open Workspace Selector
+Open allowlist
+Open critique
+Open extracted DOM in editor
+Open files in the background if Agent creates or edits them
+Open in Antigravity IDE
+Open in Cider
+Open in Critique
+Open in Notebook View
+Open in Sponge
+Open project settings
+Opened URL in Browser
+Opened browser
+Opening URL in Browser
+Operation Invocation Delegate Factory Registry
+Optical Character Recognition
+Optimization Goal
+Or visit
+Order ID
+Order only allowed for two paths.
+Orthogonal Compaction
+Orthogonal edge routing
+Orthogonally routing hierarchical port edges
+Other (write your answer)
+Other Conversations
+Other Misc Permissions
+Out of range
+Outgoing Edge Angles
+Outline color for text that got removed.
+Outline color for the text that got inserted.
+Outline color of the type filter widget in lists and trees, when there are no matches.
+Outline color of the type filter widget in lists and trees.
+Output view background color.
+Output view sticky scroll background color.
+Outside of folders file access policy
+Overall border color for focused elements. This color is only used if not overridden by a component.
+Overall direction of edges: horizontal (right / left) or vertical (down / up).
+Overall foreground color. This color is only used if not overridden by a component.
+Overall foreground for disabled elements. This color is only used if not overridden by a component.
+Overflow in a hex notation.
+Overlap removal
+Overview ruler marker color for errors.
+Overview ruler marker color for find matches in the terminal.
+Overview ruler marker color for infos.
+Overview ruler marker color for warnings.
+Overwrite if exists
+Overwrites changes in the target workspace.
+Pack components
+Page contents
+Page was short enough to be read as a single document.
+Pages currently open in Antigravity's Browser instance are shown below.
+Parent Conversation
+Parser was already resumed
+Partition midprocessing
+Partition postprocessing
+Partition preprocessing
+Password is required.
+Paste auth code
+Paste link or custom(gws...)
+Path copied!
+Path to the Chrome/Chromium executable. Leave empty for auto-detection.
+Paths the agent can modify inside this workspace.
+Paths the agent can modify.
+Paths the agent can read inside this workspace.
+Paths the agent can read.
+Pending messages
+Perfect timing
+Permanently delete this project and all of its conversations.
+Permission denied
+Permissions Appearance Notifications Models Customizations Browser
+Permissions for specific Google Drive documents.
+Peter Pan
+Pin Conversation
+Pinned Conversations
+Planning mode is no longer supported
+Playback available
+Please list the steps to reproduce the issue
+Please verify your account to continue using
+Please verify your account, then sign in again to continue. Learn more by visiting our
+Plugin Operation Error:
+Plugin operations are not supported in this environment.
+Plugins are packaged collections of skills and MCPs to help the Agent
+Polyline edge routing
+Polyomino Primary Sorting Criterion
+Polyomino Secondary Sorting Criterion
+Polyomino Traversal Strategy
+Port Alignment
+Port Alignment (East)
+Port Alignment (North)
+Port Alignment (South)
+Port Alignment (West)
+Port Anchor Offset
+Port Border Offset
+Port Constraints
+Port Index
+Port Label Placement
+Port Labels Next to Port
+Port Side
+Port Sorting Strategy
+Port Spacing
+Port did not exist in input.
+Port order processing
+Port side is undefined
+Port side processing
+Port sides must not contain UNDEFINED
+Port type is undefined
+Position Choice Constraint
+Position Constraint
+Position ID
+Possible primary sorting criteria for the processing order of polyominoes.
+Post Compaction Constraint Calculation
+Post Compaction Strategy
+Post Invocation
+Post Tool Use
+Pre Invocation
+Pre Tool Use
+Predict the location of your next edit and navigates you there with a tab keypress.
+Prevent Sleep
+Prevent that the node is moved by the layout algorithm.
+Prevent the computer from sleeping while the app is running.
+Preview unavailable
+Previous Workspaces
+Previous Worktrees
+Previous match
+Previous match (Shift+Enter)
+Previous page
+Pricing is based on public API pricing
+Privacy Notice
+Private Use
+Proactive solution
+Proceed Anyways
+Proceed in Sandbox
+Proceed with Plan
+Proceed with implementation plan
+Proceeded with
+Process compaction
+Process directions
+Process graph bounds
+Processor arrange level
+Processor arrange node
+Processor compute fanout
+Processor determine the coords for each level
+Processor determine the height for each level
+Processor order nodes
+Processor set coordinates
+Processor set neighbors
+Progress Bar
+Project + Worktree
+Project Agent
+Project Detected
+Project Folders
+Project General
+Project Settings
+Project name. E.g. Tasks
+Project picker
+Project validation failed
+Projects Combined
+Prompt Sections (
+Prompt for approval before running browser scripts.
+Prompt to execute on schedule...
+Provide Feedback
+Provide feedback
+Provided object does not correctly implement Symbol.observable
+Purchase Credits
+Put not supported on this map
+Python Coming Soon
+Python Script
+Quick Start
+Quick picker background color for the focused item.
+Quick picker color for grouping borders.
+Quick picker color for grouping labels.
+Quick picker foreground color for the focused item.
+Quick picker icon foreground color for the focused item.
+Quickly add and update imports with a tab keypress.
+Quota Available
+Radial layout
+Radial layout algorithms usually position the nodes of the graph on concentric circles.
+Ran command
+Random Layout
+Randomization Seed
+Randomly select one of the responses as the winner.
+Read Browser Page in Browser
+Read Files
+Read URL
+Read URL content?
+Read URL rejected
+Read URLs
+Read page
+Reading Browser Page in Browser
+Reading page
+Received frame with identifier that does not match this stream.
+Recent Files
+Recent Remote Workspaces
+Recent actions
+Recommended Skills
+Record Audio
+Record voice memo
+Rectangle Packing
+Recursive Graph Layout
+Recursive hierarchical layout
+Redirect blocked: unsafe protocol
+Reducers may not dispatch actions.
+Reduces number of dummy nodes after layering phase (if possible).
+Refresh custom agents
+Refresh quota and credits data
+Refresh skills
+Refresh skills paths
+Refreshed Browser page
+Refreshing Browser page
+Reject All
+Reject all
+Reject all generated responses and revert to the state before triggering battle mode.
+Reload Window
+Remote Control
+Remote Debugging Required
+Remove all
+Remove audio
+Remove not supported on this list
+Remove overlaps
+Render a single element as the child so that we can forward the props onto that element.
+Render display math flush left.
+Render display math in leqno style (left-justified tags).
+Rendered Step:
+Rendering playback
+Renewal failed
+Repulsive Power
+Request Review
+Requested changes
+Requesting your permission in Terminal:
+Requesting your permission to open URL:
+Require Review
+Requires Input
+Requires limited-internet host.
+Requires manual review for all terminal commands and file accesses outside of the working folders.
+Research & Codenav
+Reset NUX
+Reset Onboarding
+Reset State
+Reset Zoom
+Reset to preset
+Resize child graph to fit parent.
+Resized Browser window
+Resizing Browser window
+Resolved Layout Algorithm
+Resource exhausted
+Restart Task
+Restart to Update
+Restore Conversation
+Restoring reversed edges
+Restricts agent tools to a secure, isolated local sandbox.
+Restricts the translation of nodes to orthogonal directions in the compaction phase.
+Retrieved Browser Pages
+Retrieved Console Logs from Browser
+Retrieved findings for
+Retrieving Browser Pages
+Retrieving Console Logs from Browser
+Retrieving findings for
+Review Changes
+Review Policy
+Review requested
+Root element count less than 0
+Root node for spanning tree construction
+Root selection for spanning tree
+Route cannot have both an 'id' and a 'path' option.
+Row Height Reevaluation
+Run (unsandboxed)
+Run in a new git worktree
+Run in a new jj workspace or Fig share
+Run in a new worktree
+Run in your current workspace
+Safe Merge
+Sandbox Allow Network
+Save Configuration
+Scale Factor
+Scale out of range.
+Scanning skills config file...
+Scheduled Tasks
+Scheduled task "
+Scratch project folder creation warning:
+Screen Recording
+Screen recording request response:
+Screenshot must be under 10 MB
+Scrollbar shadow to indicate that the view is scrolled.
+Scrollbar slider background color when clicked on.
+Scrollbar slider background color when hovering.
+Scrollbar slider background color.
+Scrollbar track background color.
+Scrolled down in Browser
+Scrolled in Browser
+Scrolled up in Browser
+Scrolling down in Browser
+Scrolling in Browser
+Scrolling up in Browser
+Search MCP servers by name
+Search Order
+Search across files...
+Search all convos...
+Search by name or Cascade ID...
+Search conversations (by name or Cascade ID)
+Search conversations...
+Search files...
+Search for MCP servers to add to your configuration
+Search for files in the project...
+Search metrics...
+Search projects...
+Search tasks...
+Search workspaces...
+Searched Moma for
+Searched files
+Searched for files
+Searched web
+Searching Moma for
+Secondary button background color when hovering.
+Secondary button background color.
+Secondary button foreground color.
+Security Notice & Data Use
+Security Preset
+See Activity
+See Plans
+See less
+See our
+See plans
+Segment Metrics
+Select Agent
+Select Day
+Select Default Branch
+Select Environment
+Select Hour
+Select Model
+Select Model to Send Message
+Select Next Conversation
+Select Previous Conversation
+Select Project
+Select Theme
+Select a model to send message
+Select a model using the model selector in the input box
+Select a specific layout algorithm.
+Select a workspace to view skills that are not installed yet.
+Select an option...
+Select another model
+Select branch
+Select fields...
+Select folder(s)
+Select light, dark, or inherit system settings.
+Select project
+Select text in the artifact to add a comment
+Select workspace to send message
+Select workspace...
+Selected Option in Browser
+Selected model does not support this media type
+Selected region
+Selecting Option in Browser
+Selecting your Environment
+Selection Actions
+Semantic searched
+Semantic searching
+Send Feedback
+Send Queued Message
+Send command input?
+Send feedback
+Send message
+Sending to wildcard origin not allowed.
+Sent Message
+Separate Connected Components
+Serializer must be provided for CUSTOM serializer type
+Set neighbors in level
+Set not supported on this list
+Set on a node to not set a model order for this node even though it is a real node.
+Set the speed of tab suggestions
+Sets or unsets the font style to bold. Note, the presence of 'fontStyle' overrides this setting.
+Sets or unsets the font style to italic. Note, the presence of 'fontStyle' overrides this setting.
+Sets or unsets the font style to underline. Note, the presence of 'fontStyle' overrides this setting.
+Shadow color of sticky scroll in the panel.
+Shadow color of sticky scroll in the side bar.
+Shadow color of the type filter widget in lists and trees.
+Shadow color of widgets such as find/replace inside the editor.
+Sherlog Links
+Shift Last Placed.
+Shortness Priority
+Should never be called.
+Show "Edit" and "Chat" buttons when selecting text in the editor.
+Show 0s
+Show Error
+Show Selection Actions
+Show Sidebar
+Show all
+Show all resources
+Show fewer resources
+Show more
+Show suggestions when typing in the editor
+Shrinking tree compaction
+Side Question Instructions
+Side bar background color. The side bar is the container for views like explorer and search.
+Side bar foreground color. The side bar is the container for views like explorer and search.
+Side bar title background color. The side bar is the container for views like explorer and search.
+Side bar title foreground color. The side bar is the container for views like explorer and search.
+Sidecar feature is not available.
+Sidecar view does not exist.
+Sign In
+Sign Out
+Sign in again
+Sign in with a different account
+Sign out
+Sign out of this server?
+Simple node placement
+Simulated Key Press in Browser
+Simulating Key Press in Browser
+Site Allowlist
+Skill Custom Paths
+Skill download failed:
+Skill download success
+Skills Configuration Error:
+Skills are instructions that extend what Agent can do.
+Skip for now
+Sloped Edge Zone Width
+Sloppy Spline Layer Spacing Factor
+Small Form Variants
+Socket closed.
+Solarized Light
+Some non-image binary content was truncated.
+Something went wrong
+Something went wrong!
+Sort Conversations
+Sort end labels
+Source Control
+Source port must be in one of the port sets.
+Spacing Base Value
+Spacing Modifier Letters
+Spacing between pairs of ports of the same node.
+Spacing factor for routing area between layers when using sloppy spline routing.
+Spacing to be preserved between a node and its self loops.
+Spacing to be preserved between nodes and edges.
+Specifies whether and how post-process compaction is applied.
+Spline Routing Mode
+Spline edge routing
+Split Terminal
+Split graph
+Stale info
+Standalone Conversation
+Start Voice Recording
+Start first conversation
+Status bar item background color when clicking. The status bar is shown in the bottom of the window.
+Status bar item background color when hovering. The status bar is shown in the bottom of the window.
+Status bar item background color when the workbench is offline.
+Status bar item background hover color when the workbench is offline.
+Status bar item foreground color when hovering. The status bar is shown in the bottom of the window.
+Status bar item foreground color when the workbench is offline.
+Status bar item foreground hover color when the workbench is offline.
+Step JSON:
+Step Type
+Steps (
+Steps to Reproduce
+Steps to reproduce the issue
+Stop All Subagents
+Stop Subagent
+Stop Task
+Stop Voice Recording
+Stop recording
+Stopped after
+Straight Edges Post-Processing
+Straight Edges Pre-Processing
+Straight Line Edge Routing
+Straightness Priority
+Strategy for crossing minimization.
+Strategy for expanding nodes such that whitespace in the parent is eliminated.
+Strategy for finding an initial placement on nodes.
+Strategy for finding an initial width of the drawing.
+Strategy for node layering.
+Strategy for node placement.
+Stream closed before session was ready
+Stream error
+Streaming audio feature is not available
+Stress Epsilon
+Strict Mode
+Structure Extraction Strategy
+Style for all symbol declarations.
+Style for classes.
+Style for comments.
+Style for decorators & annotations.
+Style for enum members.
+Style for enums.
+Style for events.
+Style for expressions.
+Style for functions
+Style for interfaces.
+Style for keywords.
+Style for macros.
+Style for member functions
+Style for method (member functions)
+Style for namespaces.
+Style for numbers.
+Style for operators.
+Style for parameters.
+Style for properties.
+Style for strings.
+Style for structs.
+Style for type parameters.
+Style for types.
+Style for variables.
+Style to use for references in documentation.
+Style to use for symbols that are abstract.
+Style to use for symbols that are async.
+Style to use for symbols that are deprecated.
+Style to use for symbols that are read-only.
+Style to use for symbols that are static.
+Style to use for write accesses.
+Su Mo Tu We Th Fr Sa
+Subagent Overview
+Submit (Enter)
+Submit Appeal
+Submit comment
+Successfully imported project:
+Suggested Actions
+Suggestions in Editor
+Sun Mon Tue Wed Thu Fri Sat
+Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+Superscripts and Subscripts
+Switch Environment
+Switch Roles
+Synchronous parse encountered promise.
+System Message
+System Prompt
+Tab Gitignore Access
+Tab Speed
+Tab to Import
+Tab to Jump
+Table border color between columns.
+Taking Screenshot
+Target Angle
+Target Width
+Target Width Setter
+Target port must be in one of the port sets.
+Task Log
+Task Logs
+Task management
+Task not found
+Team of subagents to do long running work
+Tell us anything else here (optional)
+Terminal & Tooling Permissions
+Terminal Command Auto Execution
+Terminal Commands
+Terminal allowed commands are no longer supported
+Terminal commands the agent can execute in this workspace.
+Terminal commands the agent can execute.
+Terminal denied commands are no longer supported
+Terminal feature is disabled
+Termination criterion for the iterative process.
+Terms and Privacy:
+Terms of Service
+Terms of Service & Data Use
+Test failed
+Text color of the current search match.
+Thank you! Your feedback has been submitted successfully.
+Thanks for your feedback!
+The Agent attempted to interact with some sites that are not allowlisted
+The BF model order layer assigner requires all real nodes to have a model order.
+The DF model order layer assigner requires all real nodes to have a model order.
+The URL must be of scheme file
+The agent has a question for you:
+The agent has encountered an internal error.
+The agent has questions for you:
+The agent is requesting your attention.
+The agent is waiting for your input.
+The agent was prevented from accessing some sites
+The agent will wait for you to install the browser extension.
+The angle in radians that the layout should be rotated to after layout.
+The associated worktree will also be deleted.
+The background color of the terminal, this allows coloring the terminal differently to the panel.
+The background color of unchanged blocks in the diff editor.
+The background color of unchanged code in the diff editor.
+The background color used in stark buttons when hovered.
+The background color used in stark buttons.
+The blue color used in chart visualizations.
+The border color for an IME composition.
+The color used for horizontal lines in charts.
+The color used for the lightbulb AI icon.
+The color used for the lightbulb actions icon.
+The color used for the lightbulb auto fix actions icon.
+The color used for the problems error icon.
+The color used for the problems info icon.
+The color used for the problems warning icon.
+The containment feature could not be located
+The conversation was compacted to fit within the context window.
+The conversation was compacted while generating this response.
+The cost function is used in the creation of the spanning tree.
+The default color for icons in the workbench.
+The default terminal command decoration background color.
+The desired aspect ratio of the drawing, that is the quotient of width by height.
+The edge must have at least one source or target.
+The feature ID
+The feature must be many-valued to support move
+The fetch API does not support streaming request bodies
+The foreground color of the terminal cursor.
+The foreground color of the terminal.
+The foreground color of unchanged blocks in the diff editor.
+The foreground color used in charts.
+The foreground color used in stark buttons.
+The generic attribute type must not refer to a class
+The generic reference type must not refer to a data type
+The given graph is not a tree!
+The given string contains parts that cannot be parsed as numbers.
+The given string does not contain any numbers.
+The given string does not match the expected format for individual spacings.
+The given string does not match the expected format for vectors.
+The graph does not contain rows.
+The green color used in chart visualizations.
+The height of the area occupied by the laid out children of a node.
+The highx must be bigger then lowx and the highy must be bigger then lowy
+The index for the tree level the node is in
+The input edge is not a tree edge.
+The input must be positive
+The knot vector must have at least two time the dimension elements.
+The language "
+The length of delimiters doesn't match the number of args!
+The maximal time for animations, in milliseconds.
+The maximum number of nodes allowed per layer.
+The minimal distance to be preserved between each two nodes.
+The minimal size to which a node can be reduced.
+The minimal time for animations, in milliseconds.
+The multiplicity constraint is violated
+The number of iterations on the force model.
+The offset to the port position where connections shall be attached.
+The opposite of a containment reference must not be a containment reference
+The opposite of a transient reference must be transient if it is proxy resolving
+The opposite of the opposite may not be a reference different from this one
+The orange color used in chart visualizations.
+The overview ruler cursor color.
+The overview ruler left-side border color.
+The purple color used in chart visualizations.
+The radius option can be used to set the initial radius for the radial layouter.
+The range end code point is less than the start code point.
+The reader object cannot be used outside its compute function!
+The red color used in chart visualizations.
+The result of getSnapshot should be cached to avoid an infinite loop
+The rotate option determines whether a rotation of the layout should be performed.
+The selection background color of the terminal when it does not have focus.
+The selection background color of the terminal.
+The server cleared a prefix of the conversation as it grew too large.
+The strategy by which the layer indexes are determined at which the layering crumbles into chunks.
+The task has not begun yet.
+The task is already done.
+The temperature is used as a scaling factor for particle displacements.
+The terminal command decoration background color for error commands.
+The terminal command decoration background color for successful commands.
+The typed element must have a type
+The vector chain must contain at least a source and a target point.
+The width of the area occupied by the laid out children of a node.
+The yellow color used in chart visualizations.
+There are more than three choices in a conditional group.
+There are no classes in a balanced layout.
+There is already an extension with this id
+There is no more element.
+There is no valid object to remove.
+There must be at least one phase in the phase enumeration.
+There was an unexpected issue setting up your account.
+This chat is archived.
+This color must be transparent or it will obscure content
+This error is likely temporary. You can prompt the model to try again after some time.
+This expression is not supported in the current option setting.
+This field is required
+This may take a few minutes
+This object has been frozen and should not be mutated
+This operation was aborted
+This option defines how the compaction is applied.
+This option is disabled by your organization.
+This option is disabled while strict mode is enabled.
+This project uses Firebase. Do you want to download the Firebase skill?
+This sets the method used to select a root node for the construction of a spanning tree
+This setting cannot be changed while strict mode is enabled.
+This setting is managed by your organization.
+This sign-in option is only available to invited teams.
+This skill is installed in your workspace
+This undo action will not make any code changes.
+This will permanently delete the project and
+This workspace no longer exists. You cannot send messages.
+Thorough research
+Thorough testing
+Thought Process
+Throttler is disposed
+Timeout has occurred
+Timeout must be a positive non-zero integer.
+Title bar background when the window is active.
+Title bar background when the window is inactive.
+Title bar border color.
+Title bar foreground when the window is active.
+Title bar foreground when the window is inactive.
+To Aspect Ratio Whitesapce Eliminator
+To modify editor settings, open Settings within the editor window.
+To modify notification settings, open your operating system's system preferences.
+To provide feedback
+To start using the agent, please sign in with your Google account.
+To use browser tools, you need to enable remote debugging:
+To use new installed skills
+To use the Google Workspace CLI (
+To write effective feedback, see our
+Toggle Auxiliary Pane
+Toggle Developer Tools
+Toggle Editor
+Toggle Environment Selector
+Toggle Fullscreen
+Toggle Model Selector
+Toggle Project Selector
+Toggle Sidebar
+Toggle Terminal
+Toggle Voice Recording
+Toggle if a confirmation is shown when using the "Reload Window" button.
+Token Usage
+Token background colors are currently not supported.
+Tokyo Night
+Too many expansions: infinite loop or need to increase maxExpand setting
+Too many requests, please try again in a bit!
+Too many tab characters: &
+Took Screenshot
+Tool Calls
+Tool Calls (
+Tool Output
+Tool arguments
+Toolbar background when holding the mouse over actions
+Toolbar background when hovering over actions using the mouse
+Toolbar outline when hovering over actions using the mouse
+Tools (
+Topdown Hierarchical Node Aspect Ratio
+Topdown Hierarchical Node Width
+Topdown Layout
+Topdown Layout Providers should only be used on parallel nodes.
+Topdown Node Type
+Topdown Scale Cap
+Topdown Scale Factor
+Topdown Size Approximator
+Topdown layout cannot be used together with hierarchy handling.
+Touch your security key now
+Trajectory Debug View
+Trajectory ID
+Trajectory ID:
+Trajectory Metrics
+Trajectory Stats
+Trajectory Summary Debug
+Transaction already finished!
+Translation Optimization
+Traversal strategy for trying different candidate positions for polyominoes.
+Treat Port Labels as Group
+Tree Construction Strategy
+Tree Level
+Tree layout
+Tree stroke color for the indentation guides that are not active.
+Tree stroke color for the indentation guides.
+Tries to further compact components (disconnected sub-graphs).
+Try Again
+Try again
+Try box layout first
+Turbo mode
+Turn Off Project Feature
+Turn Off Projects
+Turn On Project Feature
+Turn On Projects
+Tutorial (1min)
+Type to search for code across your workspace.
+Type to search...
+Typeahead menu
+Typed into Browser
+Typing into Browser
+Unable to add element to queue
+Unable to close connection because connection does not exist
+Unable to determine if the user's device is Linux
+Unable to determine if the user's device is a Mac
+Unable to determine quota
+Unable to lift unknown Observable type
+Unable to parse authority
+Unable to resolve platform.
+Unable to send message because connection does not exist
+Unable to travel back in time
+Unbalanced namespace destruction: attempt to pop global namespace; please report this as a bug
+Unbound disposable context: Need to use an arrow function to preserve the value of this
+Underlying Layout Algorithm
+Understanding Intent
+Undo changes up to this point
+Unexpected character: '
+Unexpected dirty selection to be null
+Unexpected empty pending editor state on discrete nested update
+Unexpected end of input in a macro argument, expected '
+Unexpected end of the pattern in a character class.
+Unexpected end of the pattern in a conditional group.
+Unexpected end of the pattern in a modifier group.
+Unexpected meta character.
+Unicode text character "
+Unified Canadian Aboriginal Syllabics
+Unknown Environment
+Unknown Notebook
+Unknown Project
+Unknown Server
+Unknown Source
+Unknown edit
+Unknown error
+Unknown file edit
+Unknown message from iframe:
+Unknown name for a POSIX character class.
+Unknown notification:
+Unknown property.
+Unknown quota limit error reason
+Unknown state
+Unknown stream error
+Unknown stretchy delimiter.
+Unknown type of space "
+Unnamed resource
+Unnamed rule
+Unpin Conversation
+Unrecognized Unicode character "
+Unrecognized genfrac command
+Unrecognized html command
+Unrecognized infix genfrac command
+Unsubscribe not initialized
+Unsupported core-js use. Try https://npms.io/search?q=ponyfill.
+Untitled Conversation
+Update Available
+Upload to Agent
+Upper limit for iterations of overlap removal
+Use Google Cloud project instead
+Use of the macro doesn't match its definition
+Use regular expression
+Use regular expression (.*)
+Use the default color.
+Use theme to be imported with settings
+Used MCP tool
+Used context well
+Used tool
+User Implicit
+User cancelled agent execution.
+User message
+User uploaded image
+Using Codesearch within Jetski Web
+Valid Indices for Wrapping
+Validate Graph
+Validate Options
+Validation Delegate Registry
+Validation failed but no issues detected.
+Validation failed. Please verify requirements and try again.
+Validification Strategy
+Verbose agent chat
+Verification required
+Vertical alignment cannot be null
+Vertical spacing between Label and Port
+Videos must be at least 1 second long
+View Debug
+View Diff
+View File
+View Logs
+View MCP settings
+View Page
+View Split Diff
+View Stacked Diff
+View conversation
+View could not be opened
+View documentation
+View network request
+View network requests
+View plans
+View your available model quota. Quota refreshes periodically based on your plan.
+Viewing Diff
+Virtual File
+Virtual File Viewer
+Visible only
+Wait for
+Waiting for user input
+We apologize for the inconvenience. Please try again later.
+Weighting of Nodes
+Welcome to Jetski Projects
+What did you like about this response?
+What did you like? Select any that apply (optional).
+What functionality you expect your account tier to have available that is missing
+What is missing in your workflow
+What quota or feature is being incorrectly limited
+What was off? Select any that apply (optional).
+What you would like to see to address this gap in your workflow
+When debug mode is on, you can see additional information about each steps in the conversation.
+When enabled, Agent can interact with Google Workspace through the API to search and read documents.
+When enabled, Agent will use IDE's shell integration to detect and report terminal command execution.
+When enabled, Antigravity will play a sound when Agent finishes generating a response.
+When enabled, sandboxed commands are allowed to make network requests.
+When enabled, terminal commands run with sandbox restrictions.
+When enabled, the agent will be able to access past conversations to inform its responses.
+When enabled, the agent will include default customizations, including default skills.
+Whether a minimum spanning tree or a maximum spanning tree should be constructed.
+Whether a node is considered to have a high degree.
+Whether a progress bar shall be displayed during layout computations.
+Whether a self loop should be routed inside a node instead of around that node.
+Whether additional debug information shall be generated.
+Whether each connected component should be processed separately.
+Whether feedback edges should be highlighted by routing around the nodes.
+Whether the graph should be changeable interactively and by setting constraints
+Whether the node should be handled as a hypernode.
+Whether the shift from the old layout to the new computed layout shall be animated.
+Whether the zoom level shall be set to view the whole diagram after layout.
+Whether to run a supplementary scanline overlap check.
+Which search order to use when computing a spanning tree.
+Which weighting to use when computing a node order.
+White Space Approximation Strategy
+Why are you opting out?
+Width Approximation Strategy
+Work in Google3. Create conversations in new and existing Fig workspaces.
+Worked for
+Workspace API
+Workspace Command Access
+Workspace File Access
+Workspace Settings
+Workspace Web Access
+Workspace icon
+Workspaces are not available for this project
+Worktrees are available for Git repositories
+Worktrees are not available for this project
+Would you like to grant the agent access to google drive?
+Write Files
+Wrong character.
+Yi Radicals
+Yi Syllables
+You are already using a <Popover.Button /> but only 1 <Popover.Button /> is supported.
+You can prompt the model to try again or start a new conversation if the error persists.
+You currently don't have any MCP Servers installed.
+You used a <Description /> component, but it is not inside a relevant parent.
+You used a <Label /> component, but it is not inside a relevant parent.
+Your AI credits balance is too low to continue.
+Your administrator has disabled MCP servers for this workspace.
+Your feedback directly improves Gemini. See
+Your quota for this model is running low.
+Zoom In
+Zoom Out
+Zoom to Fit
